@@ -1,4 +1,4 @@
-
+Linux rocks
 Ls is used to show what files are in your directory.
 Cd is used to follow the directory
 

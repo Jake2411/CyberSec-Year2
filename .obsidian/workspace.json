@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "bc37dc8fdbf3e321",
+    "type": "split",
+    "children": [
+      {
+        "id": "b56a953dc86dd8cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02ae9413c409f51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Year/Secure Network Services/Part 1/Week 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f37bf81455858be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Year/Languages/Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30271b9fc01efc9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbb616fd5f27e2b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f1581fc060d7aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd62bb2ced453b20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Week",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b78c5c92241e0a32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d878b4e156acd185",
+    "type": "split",
+    "children": [
+      {
+        "id": "b93ba7957b0f3304",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19edf437376d9ded",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2nd Year/Languages/Linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f15698ede03bb79b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2nd Year/Languages/Linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eef3033ec7fa9bc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20501cbd6b3b77f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2nd Year/Languages/Linux.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f37bf81455858be0",
+  "lastOpenFiles": [
+    "2nd Year/Secure Network Services/Part 1/Week 3.md",
+    "2nd Year/Languages/Linux.md",
+    "2nd Year/Secure Network Services/Part 2/Assessment/Main Assessment Note.md",
+    "Late (Not us).md",
+    "New note.md",
+    "2nd Year/Database Administration and Security/Lecture Notes/Week 2.md",
+    "2nd Year/Database Administration and Security/Lecture Notes/Week 1.md",
+    "Untitled",
+    "2nd Year/Secure Network Services/Mark and Ahmed bicker count.md",
+    "2nd Year/Secure Network Services/Part 2/Lecture Notes.md",
+    "2nd Year/Database Administration and Security/Lecture Notes",
+    "2nd Year/Languages/SQL.md",
+    "2nd Year/Languages",
+    "2nd Year/Secure Network Services/Part 2/Assessment",
+    "2nd Year/Secure Network Services/Part 2",
+    "2nd Year/Secure Network Services/Part 1",
+    "2nd Year/Secure Network Services/Labs/Untitled.md",
+    "2nd Year/Secure Network Services/Lecture Notes.md",
+    "2nd Year/Project Based Learning/Untitled",
+    "2nd Year/Project Based Learning",
+    "2nd Year/Ethical Hacking and Intrusion",
+    "2nd Year/Secure Network Services/Part 1/Labs"
+  ]
+}

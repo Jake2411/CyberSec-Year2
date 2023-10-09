@@ -1,0 +1,9 @@
+.callout[data-callout="log"] {
+    --callout-color: 181, 0, 255;
+    --callout-icon: lucide-scroll;
+}
+
+.callout[data-callout="log-entry"] {
+    --callout-color: 243, 0, 126;
+    --callout-icon: lucide-arrow-right;
+}
