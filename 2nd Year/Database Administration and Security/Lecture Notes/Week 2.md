@@ -1,8 +1,9 @@
 
 >[!info]- Migration
 >DBA's often transfer data to and from text files, Excel spreadsheets, Access, Oracle or other SQL Server databases
-This process is called migration
-Can be performed through a variety of methods
+>This process is called migration
+>Can be performed through a variety of methods
+>This is a major piece of work and one of the major tasks of the DBA
 
 Importing data is when an external source is loaded into a new database. Often the new databases is on a different database platform with different database structures
 
@@ -16,5 +17,25 @@ Reasons for moving data:
 - Migration
 - Upgrade
 - Data Warehouse
-			- Web Application (MVC) 
-- 
+- Web Application ([[Week 1 |MVC]])
+- Testing
+- Development
+- Performance Analysis
+- Reporting
+- Legal
+
+>[!info]- Archiving Data
+>- Too much data in an operational database system causes the system to become inefficient.
+>- Usually only about 2 to 3 years worth of transactions will exist in such a system.
+>- Data is archived from such a system on a regular basis (at every month for example)
+
+Methods of moving data:
+- Text files
+- Open Databases Connectivity (ODBC)
+- Java Database Connectivity (JDBC)
+- Bulk Copy Program (BCP)
+- Data Transformation Services (DTS)
+- Backup/restore
+- Log s
+
+
