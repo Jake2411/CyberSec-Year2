@@ -39,6 +39,12 @@ Exporting data is one database system is moved out to another application. The r
 - Log shipping
 - Replication/mirror
 
+>[!definition]- CSV file
+>CSV File is a Comma Separated File, each column is separated by a comma
 
+>[!definition]- Text File (Fixed Width)
+>Theses are files where the individual columns are separated by a fixed number of characters. These are clearer to read but can be much larger in size because each field will be padded with spaces to make up the column width
+
+>[!definition]
 
 
