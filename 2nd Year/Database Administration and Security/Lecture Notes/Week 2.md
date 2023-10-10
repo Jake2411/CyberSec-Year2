@@ -45,6 +45,16 @@ Exporting data is one database system is moved out to another application. The r
 >[!definition]- Text File (Fixed Width)
 >Theses are files where the individual columns are separated by a fixed number of characters. These are clearer to read but can be much larger in size because each field will be padded with spaces to make up the column width
 
->[!definition]
+>[!definition]- ODBC
+>Open Database Connectivity is a file protocol to allow data to be read in a different database system (reading oracle in a SQL-Server)
+>It can be slow where large amounts of data are transferred
+
+>[!definition]- DTS
+>Data Transformation Services is a facility within SQL-Server that enables:
+>- Import and export between any data source and destination
+>- Transform any data
+>- Transfer databases objects between databases in SQL-Server
+
+
 
 
