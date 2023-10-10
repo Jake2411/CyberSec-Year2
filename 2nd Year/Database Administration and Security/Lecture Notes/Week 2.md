@@ -49,8 +49,8 @@ Exporting data is one database system is moved out to another application. The r
 >Open Database Connectivity is a file protocol to allow data to be read in a different database system (reading oracle in a SQL-Server)
 >It can be slow where large amounts of data are transferred
 
->[!definition]- DTS
->Data Transformation Services is a facility within SQL-Server that enables:
+>[!definition]- Data Transformation Services
+>DTS is a facility within SQL-Server that enables:
 >- Import and export between any data source and destination
 >- Transform any data
 >- Transfer databases objects between databases in SQL-Server
@@ -60,7 +60,38 @@ DTS Designer allows experienced Database Administrators to:
 - transform data
 - define complex workflows for heterogeneous data from multiple sources#
 
-DTS Designer allows easy transfer of database objects between SQL server Databases
-Obj
+DTS Designer allows easy transfer of database objects between SQL server Databases.
+Objects to be transferred can include tables, views, stored procedures, logins, users, roles and constraints
 
+SQL Server provides a number of other options for importing and exporting data:
+- Generate a script
+- Publish Database
+- Deploy to Azure SQL Database
+- Deploy to Azure VM
+- Deploy to Polybase
 
+>[!info]- Bulk Copy Program
+>- BCP is a command prompt utility that imports or exports database data or text files
+>- Performed from O/S command prompt
+>- Allow import or export of data to/from a text file or a binary file
+>- The data migrated can be a table or a SQL query result
+>- BCP can bypass transaction log files, which improves speed but can compromise recovery
+>- Always backup database before and after BCP operation
+
+```SQL
+USE pubs
+GO
+
+TRUNCATE TABLE authors
+GO
+
+BULK INSERT authors from "c\temp\authors.csv"
+GO
+
+SELECT * FROM authors
+GO
+```
+
+>[!info]- SELECT INTO
+>- SELECT INTO statement copies data from one table to another
+>- Tables can be on the same SQL server or linked SQL serv
