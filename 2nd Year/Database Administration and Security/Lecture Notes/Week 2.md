@@ -55,6 +55,12 @@ Exporting data is one database system is moved out to another application. The r
 >- Transform any data
 >- Transfer databases objects between databases in SQL-Server
 
+DTS Designer allows experienced Database Administrators to:
+- import and export data
+- transform data
+- define complex workflows for heterogeneous data from multiple sources#
 
+DTS Designer allows easy transfer of database objects between SQL server Databases
+Obj
 
 
