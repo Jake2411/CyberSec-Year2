@@ -94,4 +94,9 @@ GO
 
 >[!info]- SELECT INTO
 >- SELECT INTO statement copies data from one table to another
->- Tables can be on the same SQL server or linked SQL serv
+>- Tables can be on the same SQL server or linked SQL servers
+>- Cannot read from an external file
+>- Can also create the destination table automatically before copying data
+
+[[SQL Basics |Example]]
+
