@@ -12,7 +12,7 @@ Exporting data is one database system is moved out to another application. The r
 - table in a word document
 - HTML table
 
-Reasons for moving data:
+**Reasons for moving data:**
 - Archive
 - Migration
 - Upgrade
@@ -29,13 +29,16 @@ Reasons for moving data:
 >- Usually only about 2 to 3 years worth of transactions will exist in such a system.
 >- Data is archived from such a system on a regular basis (at every month for example)
 
-Methods of moving data:
+**Methods of moving data:**
 - Text files
 - Open Databases Connectivity (ODBC)
 - Java Database Connectivity (JDBC)
 - Bulk Copy Program (BCP)
 - Data Transformation Services (DTS)
 - Backup/restore
-- Log s
+- Log shipping
+- Replication/mirror
+
+
 
 
