@@ -15,4 +15,3 @@ go
 
 select * from authors2 --Shows the result
 ```
-

@@ -8,5 +8,10 @@
 >- Jobs (a pre defined operation or set of operations)
 >	- Can be scheduled or called to run when an alert is fired
 
+SQL Server Logs:
+- Collects all events and errors occurred in the database engine
+- A new log is created each time the SQL Service restarts
 
+![[SQL server agent error log.png]]
+SQL Server Agent error log ^
 
