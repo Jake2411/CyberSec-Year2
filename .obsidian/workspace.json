@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd Year/Database Administration and Security/Lecture Notes/Week 3.md",
+                "file": "2nd Year/Languages/SQL Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year/Database Administration and Security/Lecture Notes/Week 3.md",
+                "file": "2nd Year/Languages/SQL Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2nd Year/Database Administration and Security/Lecture Notes/Week 3.md",
+                "file": "2nd Year/Languages/SQL Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2nd Year/Database Administration and Security/Lecture Notes/Week 3.md"
+                "file": "2nd Year/Languages/SQL Basics.md"
               }
             }
           }
@@ -147,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0f1581fc060d7aa",
+  "active": "f37bf81455858be0",
   "lastOpenFiles": [
+    "2nd Year/Database Administration and Security/Lecture Notes/Week 3.md",
     "SQL server agent error log.png",
     "Late (Not us).md",
-    "2nd Year/Database Administration and Security/Lecture Notes/Week 3.md",
     "2nd Year/Languages/SQL Basics.md",
     "2nd Year/Secure Network Services/Part 2/Assessment/Main Assessment Note.md",
     "2nd Year/Secure Network Services/Part 1/Labs/Lab 3.md",
