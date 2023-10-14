@@ -16,12 +16,19 @@ go
 select * from authors2 --Shows the result
 ```
 
-CREATE table
+**CREATE table**
 
 ```SQL
 CREATE (table_name):
 	column_name1 data_type; --if you want no null values add NOT NULL after data type
 	column_name2 data_type;
 	etc...
+```
+
+**INSERT INTO table**
+
+```SQL
+INSERT INTO (table_name) VALUES
+	(/*put values here*/)
 ```
 
