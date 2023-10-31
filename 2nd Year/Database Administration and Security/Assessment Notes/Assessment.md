@@ -27,6 +27,15 @@ First a registered server needs to be added. Add this through the SQL Server 202
 
 Different ways of importing and exporting data:
 - The above method is using the wizard to do it
-- You can export to an XML file using a SQL query. The query would be:
-  ```
+- You can export to an XML file using a *SQL query*. The query would be:
+```SQL
+Select * from #tableName#
+for xml raw
+```
+
+or for a json export
+ 
+```SQL
+Select * from tbl.branch #as an example
+for json path, root ('branch')
 ```
