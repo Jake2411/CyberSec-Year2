@@ -31,3 +31,12 @@ Different ways of importing and exporting data:
 
 # Task 2#
 
+**Automation**
+
+Do a backup on the SQL Server Database to show automation working
+
+![[Pasted image 20231031161929.png]]
+*This is the first query that needs to be run so the first backup is made and the SQL Server Agent in the object explorer is created*
+
+![[Pasted image 20231031162223.png]]
+*Our Agent XPs was disabled to start off with so*
