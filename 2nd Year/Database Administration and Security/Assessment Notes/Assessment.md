@@ -53,3 +53,7 @@ Do a backup on the SQL Server Database to show automation working
 ![[Pasted image 20231031162723.png]]
 *This is the schedule of the backup job, its done every Monday at midnight *
 
+Advantages of automation:7
+- Increased level of productivity as the developers don't have to concern themselves with the little backups
+- No human error so its much more reliable
+- 
