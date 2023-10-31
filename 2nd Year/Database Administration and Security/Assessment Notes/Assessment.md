@@ -23,4 +23,10 @@ First a registered server needs to be added. Add this through the SQL Server 202
 *Select all tables you want to be copied from the file into your database*
 
 ![[Pasted image 20231031142928.png]]
-**
+*And finally leave it as run immediately and click finish to import your data*
+
+Different ways of importing and exporting data:
+- The above method is using the wizard to do it
+- You can export to an XML file using a SQL query. The query would be:
+  ```
+```
