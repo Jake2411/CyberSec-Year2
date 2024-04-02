@@ -1,5 +1,4 @@
 
-
 ---
 
 First a registered server needs to be added. Add this through the SQL Server 2022 that should be downloaded as well as SSMS. Make sure to tick the box that says 'Trust this source' or you will get an error.
@@ -56,4 +55,111 @@ Do a backup on the SQL Server Database to show automation working
 Advantages of automation:7
 - Increased level of productivity as the developers don't have to concern themselves with the little backups
 - No human error so its much more reliable
-- 
+
+
+# Task 3 - INSERT
+
+![[Pasted image 20231102145354.png]]
+*Shows the violation because of the duplicate of a primary key in the table*
+
+![[Pasted image 20231102153358.png]]
+![[Pasted image 20231102153449.png]]
+*As you can see in the images above the insert into didn't work here because you cant insert data into the foreign key column when it doesn't exist in the primary key column*
+
+![[Pasted image 20231102153853.png]]
+*Delete doesn't work because it is the primary key. To delete a primary key you must delete all branches from that primary key*
+
+# Task 4
+
+![[Pasted image 20231102154737.png]]
+*Procedure created that selects the total customers in the customer table*
+
+![[Pasted image 20231102154824.png]]
+*Here is the result of the procedure when executed*
+
+# Task 5
+
+![[Pasted image 20231120121339.png]]
+*Code used to create a new table called `Audit_SOLine` *
+
+![[Pasted image 20231120123003.png]]
+*Create trigger to insert into the audit table whenever an update is made*
+
+![[Pasted image 20231120123159.png]]
+*Update query*
+
+![[Pasted image 20231120123216.png]]
+*Proof that it updates the audit table*
+
+
+# Task 6
+
+
+![[Pasted image 20231120130218.png]]
+*Updating the netSale column to be quantity * selling price*
+
+![[Pasted image 20231120134812.png]]
+*This is the personSearch procedure*
+
+![[Pasted image 20231120134843.png]]
+*This is the result of executing the query*
+
+# Task 7
+
+![[Pasted image 20231120143227.png]]
+*New users view of tblProduct*
+
+![[Pasted image 20231120143332.png]]
+*View that was created*
+
+![[Pasted image 20231120143417.png]]
+*Role called TeleSales_Staff that was made and the restrictions put on it for tblProduct*
+
+![[Pasted image 20231120143507.png]]
+*Login and user created for the server*
+
+# Task 8
+![[Pasted image 20231122131450.png]]
+*Restore the back up media*
+
+# Task 9
+![[Pasted image 20231122135008.png]]
+*Connected my ssms database to azure data studio - the cloud*
+
+![[Pasted image 20231122135116.png]]
+*Added 4th row of data to the region table in the cloud*
+
+![[Pasted image 20231122135327.png]]
+*It also edits it in the local table so its connected successfully*
+
+![[Pasted image 20231122135533.png]]
+*Deleted the row in ssms*
+
+![[Pasted image 20231122135548.png]]
+*It also has deleted from azure data studio so the connection goes both ways*
+
+![[Pasted image 20231128140856.png]]
+*New database in azure data studio and inserting data into new table called tblProduct*
+
+![[Pasted image 20231128140939.png]]
+*Also the azure database in the ssms*
+
+![[Pasted image 20231128143148.png]]
+*First five inserted in azure and they have been updated in ssms as well*
+
+![[Pasted image 20231128150504.png]]
+Inserted into ssms and it has updated on azure
+# Task 10
+
+# Task 11
+
+![[Pasted image 20231207104925.png]]
+
+![[Pasted image 20231207105731.png]]
+
+![[Pasted image 20231207110327.png]]
+
+![[Pasted image 20231207131758.png]]
+
+![[Pasted image 20231207131807.png]]
+

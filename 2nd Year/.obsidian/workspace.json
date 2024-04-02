@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Administration and Security/Lecture Notes/Week 1.md",
+                "file": "Database Administration and Security/Assessment Notes/Assessment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Administration and Security/Lecture Notes/Week 1.md",
+                "file": "Database Administration and Security/Assessment Notes/Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Administration and Security/Lecture Notes/Week 1.md",
+                "file": "Database Administration and Security/Assessment Notes/Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Administration and Security/Lecture Notes/Week 1.md"
+                "file": "Database Administration and Security/Assessment Notes/Assessment.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "dc1e0c8c12c7f5cf",
   "lastOpenFiles": [
+    "Pasted image 20231031162223.png.md",
+    "Database Administration and Security/Assessment Notes/Assessment.md",
+    "Pasted image 20231031161929.png.md",
+    "Database Administration and Security/Lecture Notes/Week 1.md",
     "Secure Network Services/Part 2/Lecture Notes.md"
   ]
 }

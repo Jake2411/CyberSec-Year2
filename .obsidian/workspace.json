@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8850e6799415a713",
+            "id": "f3faaaa3072a8395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2nd Year/Database Administration and Security/Assessment Notes/Assessment.md",
+                "file": "2nd Year/Ethical Hacking and Intrusion/hackthebox/Granny (ASSESSMENT).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b53a5e5aea6ee64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2nd Year/Ethical Hacking and Intrusion/hackthebox/Spark (ASSESSMENT).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Year/Database Administration and Security/Assessment Notes/Assessment.md",
+                "file": "2nd Year/Ethical Hacking and Intrusion/hackthebox/Spark (ASSESSMENT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2nd Year/Database Administration and Security/Assessment Notes/Assessment.md",
+                "file": "2nd Year/Ethical Hacking and Intrusion/hackthebox/Spark (ASSESSMENT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2nd Year/Database Administration and Security/Assessment Notes/Assessment.md"
+                "file": "2nd Year/Ethical Hacking and Intrusion/hackthebox/Spark (ASSESSMENT).md"
               }
             }
           }
@@ -147,48 +160,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8850e6799415a713",
+  "active": "1b53a5e5aea6ee64",
   "lastOpenFiles": [
-    "Pasted image 20231031162723.png",
-    "Pasted image 20231031162638.png",
-    "Pasted image 20231031162600.png",
-    "Pasted image 20231031162340.png",
-    "Pasted image 20231031162223.png",
-    "Pasted image 20231031161929.png",
-    "Pasted image 20231031142928.png",
-    "Pasted image 20231031142851.png",
-    "Pasted image 20231031142752.png",
-    "Pasted image 20231031142700.png",
-    "Pasted image 20231031141737.png",
-    "2nd Year/Secure Network Services/Part 1/Week 5.md",
-    "2nd Year/Database Administration and Security/Assessment Notes/Assessment.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Granny (ASSESSMENT).md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Spark (ASSESSMENT).md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Nibbles.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Shocker.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/GetLab.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Tabby.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Zebra.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Jerry.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Fawn.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Explosion.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Enlightenment.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/DirtyPipe.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Curling.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Ready.md",
     "CompTia a+ revision.md",
-    "2nd Year/Database Administration and Security/Lecture Notes/Week 2.md",
-    "2nd Year/Database Administration and Security/Lecture Notes/Week 3.md",
-    "2nd Year/Database Administration and Security/Lecture Notes/Week 1.md",
-    "2nd Year/Secure Network Services/Part 1/Labs/Lab 3.md",
-    "2nd Year/Secure Network Services/Part 1/Labs/Lab 4.md",
-    "2nd Year/Languages/Linux.md",
-    "2nd Year/Languages/SQL Basics.md",
-    "Late (Not us).md",
-    "2nd Year/Secure Network Services/Part 2/Assessment/Main Assessment Note.md",
-    "2nd Year/Secure Network Services/Part 1/Week 3.md",
-    "2nd Year/Database Administration and Security/Labs/Assessment report.md",
-    "New note.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/PwnKit.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Grandpa.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/ApacheCGI.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Brainfuck.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Crocodile.md",
+    "Pasted image 20240306164646.png",
+    "Pasted image 20240306164630.png",
+    "Pasted image 20240306164610.png",
+    "Pasted image 20240306164307.png",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/PrintNightmare.md",
+    "Pasted image 20240305143556.png",
+    "Pasted image 20240305143335.png",
+    "Pasted image 20240305143244.png",
+    "Pasted image 20240305143121.png",
+    "Pasted image 20240305142840.png",
+    "Pasted image 20240305142704.png",
+    "2nd Year/Ethical Hacking and Intrusion/Untitled.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Superset.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox/Meow.md",
+    "2nd Year/Ethical Hacking and Intrusion/Lectures.md",
+    "2nd Year/Pasted image 20231031161929.png.md",
+    "2nd Year/Ethical Hacking and Intrusion/hackthebox",
     "Untitled",
-    "2nd Year/Secure Network Services/Mark and Ahmed bicker count.md",
-    "2nd Year/Secure Network Services/Part 2/Lecture Notes.md",
     "2nd Year/Database Administration and Security/Lecture Notes",
-    "2nd Year/Languages/SQL.md",
     "2nd Year/Languages",
     "2nd Year/Secure Network Services/Part 2/Assessment",
     "2nd Year/Secure Network Services/Part 2",
     "2nd Year/Secure Network Services/Part 1",
-    "2nd Year/Secure Network Services/Labs/Untitled.md",
-    "2nd Year/Secure Network Services/Lecture Notes.md",
     "2nd Year/Project Based Learning/Untitled",
     "2nd Year/Project Based Learning",
-    "2nd Year/Ethical Hacking and Intrusion",
-    "2nd Year/Secure Network Services/Part 1/Labs"
+    "2nd Year/Ethical Hacking and Intrusion"
   ]
 }
