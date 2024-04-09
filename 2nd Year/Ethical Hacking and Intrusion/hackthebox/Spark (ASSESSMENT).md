@@ -1,4 +1,9 @@
 
+
+
+
+
+
 ```shell
 sudo nmap -sV -A -O *ip*
 ```
